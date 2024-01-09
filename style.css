@@ -5,10 +5,11 @@
   .banner-img img {
     width: 100%;
   }
-  .wraper {
+  .wraper{
     width: 100%;
     background-color: rgba(128, 127, 127, 0.6);
   }
+  
   .banner-text {
     margin-top: 10px;
   
